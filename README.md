@@ -1,5 +1,4 @@
-[![Actions Status](https://github.com/OxMxDev/OxMxDev/workflows/wakatime-stats/badge.svg)](https://github.com/OxMxDev/OxMxDev/actions)
-[![Actions Status](https://github.com/OxMxDev/OxMxDev/workflows/update-gh-activity/badge.svg)](https://github.com/OxMxDev/OxMxDev/actions)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=OxMxDev.OxMxDev)
 
 <p align="center">
@@ -24,18 +23,12 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OxMxDev&theme=github-dark-dimmed&custom_title=OxMxDev%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: Your Name
-located_in: Your City, Your Country
-from: Your Origin City (Your Origin Country)
-job: Your Job Title
-education: ["Your Education 1", "Your Education 2"] # e.g., ["Master's in Computer Science", "Bachelor's in Software Engineering"]
-company: Your Company Name
-past experiences:
-  - ["Your Past Job Title 1", "Relevant Project/Area", "Company Name 1", "Location 1", "Start Year-End Year"]
-  - ["Your Past Job Title 2", "Relevant Project/Area", "Company Name 2", "Location 2", "Start Year-End Year"]
-  # Add more past experiences as needed
-fields_of_interests: ["Your Interest 1", "Your Interest 2", "Your Interest 3"] # e.g., ["Web Development", "Machine Learning", "Cloud Computing"]
-technical_background: ["Your Skill 1", "Your Skill 2", "Your Skill 3"] # e.g., ["Frontend Development", "Backend Development", "Database Management"]
-currently_learning: ["What you're learning 1", "What you're learning 2"] # e.g., ["New Framework", "New Language"]
-will_learn: ["What you plan to learn 1", "What you plan to learn 2"] # e.g., ["Advanced AI", "Blockchain"]
-hobbies: ["Your Hobby 1", "Your Hobby 2", "Your Hobby 3"] # e.g., ["Hiking", "Photography", "Reading"]
+name: Om Dwivedi
+located_in: Chennai, India
+from: Kanpur (India)
+education: currently pursuing B.Tech
+fields_of_interests: Web Development, DevOps, Machine Learning
+technical_background: Full Stack Web Development
+currently_learning: Next JS
+will_learn: Advanced AI
+hobbies: Chess, solving Rubix cube
