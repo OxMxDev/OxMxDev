@@ -1,4 +1,3 @@
-
 ![](https://visitor-badge.glitch.me/badge?page_id=OxMxDev.OxMxDev)
 
 <p align="center">
@@ -7,8 +6,7 @@
 
 <p align="center">
 <br/>
-<a href="www.linkedin.com/in/om-dwivedi129
-">
+<a href="www.linkedin.com/in/om-dwivedi129">
   <img alt="OxMxDev's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="https://open.spotify.com/user/d2l9yjxv83mm0zlj98eiwtz6j">
