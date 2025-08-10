@@ -7,10 +7,11 @@
 
 <p align="center">
 <br/>
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="www.linkedin.com/in/om-dwivedi129
+">
   <img alt="OxMxDev's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="YOUR_SPOTIFY_PROFILE_URL">
+<a href="https://open.spotify.com/user/d2l9yjxv83mm0zlj98eiwtz6j">
   <img alt="OxMxDev's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
