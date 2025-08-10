@@ -1,49 +1,41 @@
-<h2 align="left">Hi 👋! My name is Om Dwivedi and I'm a full stack Web Developer</h2>
+[![Actions Status](https://github.com/OxMxDev/OxMxDev/workflows/wakatime-stats/badge.svg)](https://github.com/OxMxDev/OxMxDev/actions)
+[![Actions Status](https://github.com/OxMxDev/OxMxDev/workflows/update-gh-activity/badge.svg)](https://github.com/OxMxDev/OxMxDev/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=OxMxDev.OxMxDev)
 
-###
+<p align="center">
+  <img src="https://socialify.git.ci/OxMxDev/OxMxDev/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="OxMxDev" width="700" height="300" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxMxDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OxMxDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+<br/>
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+  <img alt="OxMxDev's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="YOUR_SPOTIFY_PROFILE_URL">
+  <img alt="OxMxDev's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
 
-###
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=OxMxDev&theme=onedark&column=-1" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OxMxDev&theme=github-dark-dimmed&custom_title=OxMxDev%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+```yaml
+name: Your Name
+located_in: Your City, Your Country
+from: Your Origin City (Your Origin Country)
+job: Your Job Title
+education: ["Your Education 1", "Your Education 2"] # e.g., ["Master's in Computer Science", "Bachelor's in Software Engineering"]
+company: Your Company Name
+past experiences:
+  - ["Your Past Job Title 1", "Relevant Project/Area", "Company Name 1", "Location 1", "Start Year-End Year"]
+  - ["Your Past Job Title 2", "Relevant Project/Area", "Company Name 2", "Location 2", "Start Year-End Year"]
+  # Add more past experiences as needed
+fields_of_interests: ["Your Interest 1", "Your Interest 2", "Your Interest 3"] # e.g., ["Web Development", "Machine Learning", "Cloud Computing"]
+technical_background: ["Your Skill 1", "Your Skill 2", "Your Skill 3"] # e.g., ["Frontend Development", "Backend Development", "Database Management"]
+currently_learning: ["What you're learning 1", "What you're learning 2"] # e.g., ["New Framework", "New Language"]
+will_learn: ["What you plan to learn 1", "What you plan to learn 2"] # e.g., ["Advanced AI", "Blockchain"]
+hobbies: ["Your Hobby 1", "Your Hobby 2", "Your Hobby 3"] # e.g., ["Hiking", "Photography", "Reading"]
