@@ -32,9 +32,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omdwivedi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omdwivedi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omdwivedi&theme=radical)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxMxDev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxMxDev&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=OxMxDev&theme=radical&hide_border=true)
+
 
 ---
 
@@ -48,18 +49,17 @@
 ## 📫 Connect With Me  
 [![Email](https://img.shields.io/badge/Email-omdwivedi234@gmail.com-red?logo=gmail&logoColor=white)](mailto:omdwivedi234@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Dwivedi-blue?logo=linkedin)](https://linkedin.com/in/omdwivedi)  
-![Visitors](https://komarev.com/ghpvc/?username=omdwivedi&color=brightgreen)
+![Visitors](https://komarev.com/ghpvc/?username=OxMxDev&color=brightgreen)
+
+---
+
+## 🐍 Contribution Snake  
+
+![Snake animation — light](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/contribution-snake.svg#gh-light-mode-only)  
+![Snake animation — dark](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/contribution-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
 
 ⭐ **If you like my work, follow me and star my repositories!**
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation — light](https://raw.githubusercontent.com/omdwivedi/omdwivedi/output/dist/contribution-snake.svg#gh-light-mode-only)
-![Snake animation — dark](https://raw.githubusercontent.com/omdwivedi/omdwivedi/output/dist/contribution-snake-dark.svg#gh-dark-mode-only)
-
