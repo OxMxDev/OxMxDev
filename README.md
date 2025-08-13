@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-omdwivedi234@gmail.com-red?logo=gmail&logoColor=white)](mailto:omdwivedi234@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Dwivedi-blue?logo=linkedin)](https://linkedin.com/in/omdwivedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Dwivedi-blue?logo=linkedin)](https://linkedin.com/in/om-dwivedi129)
 ![Visitors](https://komarev.com/ghpvc/?username=OxMxDev&color=brightgreen)
 
 ---
