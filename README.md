@@ -67,3 +67,5 @@
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 ⭐ **If you like my work, follow me and star my repositories!**
+
+![Snake animation — dark](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/github-snake-dark.svg)
