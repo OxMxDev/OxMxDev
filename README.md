@@ -44,8 +44,8 @@
 * 🎯 **ShopSphere** – A modern and responsive e-commerce application built with React and styled using Tailwind CSS. This project features a functional shopping cart, dynamic product display, and real-time data persistence with Firebase Firestore and Authentication. It serves as a ready-to-run, minimal template for developers looking to quickly build a robust e-commerce front-end.
     * [Repository](https://github.com/OxMxDev/ShopSphere) 
 
-* 🎯 **Customer Support Ticket System** – A command-line application simulating a customer support system, efficiently managing support tickets. Implemented using a **Singly Linked List in C** to demonstrate data structure proficiency and efficient ticket handling.
-    * [Repository](https://github.com/OxMxDev/CustomerSupportTicketSystem) (Replace with actual link)
+* 🎯 **Gemini integrated Ai Chatbot** – This is a simple, real-time web-based chat application that allows multiple users to communicate instantly within a single chat room. It's built with modern web technologies and utilizes Firebase Firestore to handle the real-time data synchronization.
+    * [Repository](https://github.com/OxMxDev/gemini-ai-chatbot) 
 
 ---
 
