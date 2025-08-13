@@ -38,8 +38,9 @@
 ---
 
 ## 🚀 Featured Projects
-* 🎯 **EduLearn** – An online education platform designed to connect students and instructors. I developed the robust backend using **Java** with **JDBC** for efficient database interaction and **MySQL** for data storage, ensuring secure user authentication and course management.
-    * [Repository](https://github.com/OxMxDev/EduLearn) (Replace with actual link)
+* 🎯 **Smart Polyfarmacy Checker** –This is a full-stack web application designed to be a "Smart Polypharmacy Checker" for elderly patients. It provides a comprehensive platform for caregivers and healthcare professionals to manage, monitor, and gain insights into complex medication regimens, with a strong focus on patient safety and data-driven recommendations.
+    * [Repository](https://github.com/OxMxDev/smart-polyfarmacy-checker) 
+   * [Live Demo](https://smart-polypharmacy-checker.vercel.app/)
 
 * 🎯 **WeatherNow** – A sleek and responsive web application providing real-time weather updates. Built using the **Fetch API** to seamlessly integrate with a third-party weather service, allowing users to quickly access current conditions and forecasts for any location.
     * [Live Demo](https://your-weathernow-demo.netlify.app) (Replace with actual link)
