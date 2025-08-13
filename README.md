@@ -39,12 +39,10 @@
 
 ## 🚀 Featured Projects
 * 🎯 **Smart Polyfarmacy Checker** –This is a full-stack web application designed to be a "Smart Polypharmacy Checker" for elderly patients. It provides a comprehensive platform for caregivers and healthcare professionals to manage, monitor, and gain insights into complex medication regimens, with a strong focus on patient safety and data-driven recommendations.
-    * [Repository](https://github.com/OxMxDev/smart-polyfarmacy-checker) 
    * [Live Demo](https://smart-polypharmacy-checker.vercel.app/)
 
-* 🎯 **WeatherNow** – A sleek and responsive web application providing real-time weather updates. Built using the **Fetch API** to seamlessly integrate with a third-party weather service, allowing users to quickly access current conditions and forecasts for any location.
-    * [Live Demo](https://your-weathernow-demo.netlify.app) (Replace with actual link)
-    * [Repository](https://github.com/OxMxDev/WeatherNow) (Replace with actual link)
+* 🎯 **ShopSphere** – A modern and responsive e-commerce application built with React and styled using Tailwind CSS. This project features a functional shopping cart, dynamic product display, and real-time data persistence with Firebase Firestore and Authentication. It serves as a ready-to-run, minimal template for developers looking to quickly build a robust e-commerce front-end.
+    * [Repository](https://github.com/OxMxDev/ShopSphere) 
 
 * 🎯 **Customer Support Ticket System** – A command-line application simulating a customer support system, efficiently managing support tickets. Implemented using a **Singly Linked List in C** to demonstrate data structure proficiency and efficient ticket handling.
     * [Repository](https://github.com/OxMxDev/CustomerSupportTicketSystem) (Replace with actual link)
