@@ -59,8 +59,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation — light](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/contribution-snake.svg#gh-light-mode-only)
-![Snake animation — dark](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/contribution-snake-dark.svg#gh-dark-mode-only)
+![Snake animation — dark](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/github-snake-dark.svg)
 
 ---
 
@@ -68,4 +67,4 @@
 
 ⭐ **If you like my work, follow me and star my repositories!**
 
-![Snake animation — dark](https://raw.githubusercontent.com/OxMxDev/OxMxDev/output/dist/github-snake-dark.svg)
+
