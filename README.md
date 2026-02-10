@@ -41,14 +41,21 @@
 ---
 
 ## 🚀 Featured Projects
-* 🎯 **Smart Polyfarmacy Checker** –This is a full-stack web application designed to be a "Smart Polypharmacy Checker" for elderly patients. It provides a comprehensive platform for caregivers and healthcare professionals to manage, monitor, and gain insights into complex medication regimens, with a strong focus on patient safety and data-driven recommendations.
-   * [Live Demo](https://smart-polypharmacy-checker.vercel.app/)
+* 🎯 **Real-Time Chat App** – A robust full-stack chat application facilitating seamless 1-on-1 and group communication with real-time
+features like typing indicators and read receipts via Socket.io. Implemented secure JWT user
+authentication, dynamic profile management with Cloudinary, and efficient state handling using Zustand
+to deliver a polished and responsive messaging experience.
+   * [Live Demo](https://real-time-chat-application-frontend-tawny.vercel.app)
 
 * 🎯 **ShopSphere** – A modern and responsive e-commerce application built with React and styled using Tailwind CSS. This project features a functional shopping cart, dynamic product display, and real-time data persistence with Firebase Firestore and Authentication. It serves as a ready-to-run, minimal template for developers looking to quickly build a robust e-commerce front-end.
-    * [Repository](https://github.com/OxMxDev/ShopSphere) 
+    * [Live Demo](https://shop-sphere-frontend-sepia.vercel.app/) 
 
-* 🎯 **Gemini integrated Ai Chatbot** – This is a simple, real-time web-based chat application that allows multiple users to communicate instantly within a single chat room. It's built with modern web technologies and utilizes Firebase Firestore to handle the real-time data synchronization.
-    * [Repository](https://github.com/OxMxDev/gemini-ai-chatbot) 
+* 🎯 **JobPortal** – A full-stack recruitment platform enabling recruiters to post jobs and students to apply and track
+applications. Implemented secure authentication and authorization with JWT and cookies, and
+developed robust RESTful APIs for user profiles, job management, and application workflows using
+Node.js, Express, and MongoDB. Designed a responsive React frontend with TailwindCSS, featuring
+dynamic job filtering and a seamless mobile-friendly user experience.
+    * [Live Demo](https://job-portal-frontend-z7u1.onrender.com)  
 
 ---
 
