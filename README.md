@@ -34,9 +34,9 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=OxMxDev&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OxMxDev&show_icons=true&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMxDev&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMxDev&layout=compact&theme=radical&hide_border=true" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OxMxDev&theme=radical&hide_border=true)
 
